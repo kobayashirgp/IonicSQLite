@@ -1,4 +1,4 @@
-# Ionic Firebase Chat 
+# Ionic + SQLite 
 
 Aplicativo desenvolvido para o curso "Ionic 2 e 3 - Apps Híbridos, PWA, Firebase e muito mais" ministrado por Plínio Naves através da plataforma www.udemy.com
 

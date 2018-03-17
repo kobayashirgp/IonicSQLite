@@ -5,9 +5,8 @@ Aplicativo desenvolvido para o curso "Ionic 2 e 3 - Apps Híbridos, PWA, Firebas
 ## Built With
 
 * Ionic
-* Firebase
-* Angular
-* AngularFire2
+* SQLite
+* Ionic Native
 
 
 ## License
